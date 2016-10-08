@@ -1,0 +1,36 @@
+{
+  "name": "muskie9/silverstripe-chosen-dropdown",
+  "description": "Chosen dropdown field for frontend SilverStripe forms",
+  "authors": [
+    {
+      "name": "Nic Horstmeier",
+      "email": "nhorstmeier@gmail.com",
+      "homepage": "http://muskie9.com",
+      "role": "Developer"
+    }
+  ],
+  "keywords": [
+    "silverstripe",
+    "Chosen Dropdown"
+  ],
+  "type": "silverstripe-module",
+  "license": "BSD-3-Clause",
+  "require": {
+    "silverstripe/cms": "^3.2",
+    "silverstripe/framework": "^3.2"
+  },
+  "extra": {
+    "installer-name": "chosen-dropdown",
+    "branch-alias": {
+      "dev-master": "1.0.x-dev"
+    }
+  },
+  "require-dev": {
+    "phpunit/PHPUnit": "^3.7"
+  },
+  "config": {
+    "process-timeout": 600
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
