@@ -1,6 +1,6 @@
-# data-to-arraylist
+# SilverStripe-Chosen-Dropdown-Field
 
-A helper class that converts DataList to ArrayList and allows adding of additional sort options
+A chosen dropdown field for frontend forms.
 
 ## Requirements
 
@@ -8,11 +8,11 @@ A helper class that converts DataList to ArrayList and allows adding of addition
 
 ## Installation
 
-This is how you install data-to-arraylist.
+This is how you install silverstirpe-chosen-dropdown-field.
 
 ## Example usage
 
-You use data-to-arraylist like this.
+You use silverstirpe-chosen-dropdown-field like this.
 
 ## Documentation
 
